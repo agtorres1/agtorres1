@@ -15,7 +15,7 @@
 
 - 🛠️ Me estoy orientando a **Data Engineering**: modelado relacional y dimensional, ETL, pipelines y calidad de datos
 - 🧱 Me gusta construir la capa que hace que los datos sean confiables: limpieza, resolución de identidades, cargas idempotentes y transformaciones reproducibles
-- 📊 También trabajo en **Machine Learning**, así que sé lo que un modelo necesita de los datos: ventanas temporales sin leakage, features consistentes entre entrenamiento y producción, y monitoreo de drift
+- 📊 Hago proyectos de Machine Learning (clasificación y series de tiempo), que me enseñaron a preparar datos pensando en el modelo: tablas analíticas con ventanas temporales y sin data leakage
 - ☁️ Me estoy especializando en **Azure Machine Learning** y **MLOps**
 - 🎓 Estudiante de Ingeniería en Sistemas en la UTN FRBA · 📍 Buenos Aires
 
